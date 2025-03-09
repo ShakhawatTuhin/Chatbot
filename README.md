@@ -1,7 +1,7 @@
 Chatbot Project:
 A simple yet powerful Chatbot built using Python's FastAPI and OpenAI's GPT-3.5-turbo model. This project demonstrates how to create a web-based chatbot that interacts with users in real-time, powered by OpenAI's natural language processing capabilities.
 ---------------------------------------------------------------------------------------
-![Chatbot](https://github.com/user-attachments/assets/850f5251-06d4-421b-8fa7-13f5cc20dadd)
+![Chatbot](https://github.com/user-attachments/assets/c57e5d5a-01fe-4543-a590-19999a61a93f)
 ---------------------------------------------------------------------------------------
 🚀 Features
 🌐 Web-based Interface – Chat with the bot using a simple web UI.
