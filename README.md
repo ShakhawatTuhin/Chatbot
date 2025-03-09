@@ -1,15 +1,18 @@
-Chatbot Project:
-A simple yet powerful Chatbot built using Python's FastAPI and OpenAI's GPT-3.5-turbo model. This project demonstrates how to create a web-based chatbot that interacts with users in real-time, powered by OpenAI's natural language processing capabilities.
----------------------------------------------------------------------------------------
-![Chatbot](https://github.com/user-attachments/assets/850f5251-06d4-421b-8fa7-13f5cc20dadd)
----------------------------------------------------------------------------------------
+# Chatbot with FastAPI and OpenAI
+This is a chatbot built using FastAPI and OpenAI's GPT-3.5-turbo model. It provides a simple web interface for interacting with the chatbot.
+------------------------------------------------------------------------------------------------------------------
+## Live Demo
+You can access the live deployment of this project here: [Chatbot on Render](https://chatbot-w9cb.onrender.com)
+------------------------------------------------------------------------------------------------------------------
+![Chatbot](https://github.com/user-attachments/assets/c57e5d5a-01fe-4543-a590-19999a61a93f)
+------------------------------------------------------------------------------------------------------------------
 🚀 Features
 🌐 Web-based Interface – Chat with the bot using a simple web UI.
 ⚡ FastAPI-powered Backend – Efficient API handling with FastAPI.
 🤖 OpenAI GPT-3.5 Integration – Generates responses using OpenAI's API.
 🎨 Bootstrap Styling – Responsive and modern UI.
 💾 Chat History – Displays previous chatbot interactions.
----------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 Technologies Used
 Python: Core programming language.
 FastAPI: Backend framework for building the API and serving the web interface.
