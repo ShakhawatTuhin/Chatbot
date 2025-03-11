@@ -2,6 +2,7 @@
 This is a chatbot built using FastAPI and OpenAI's GPT-3.5-turbo model. It provides a simple web interface for interacting with the chatbot.
 ------------------------------------------------------------------------------------------------------------------
 ## Live Demo
+You can access the live deployment of this project here: [Chatbot on Vercel](https://chatbot-psi-nine-22.vercel.app/)
 You can access the live deployment of this project here: [Chatbot on Render](https://chatbot-w9cb.onrender.com)
 ------------------------------------------------------------------------------------------------------------------
 ![Chatbot](https://github.com/user-attachments/assets/c57e5d5a-01fe-4543-a590-19999a61a93f)
